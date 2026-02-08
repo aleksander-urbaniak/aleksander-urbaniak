@@ -1,16 +1,13 @@
-## Hi there 👋
+﻿### 🚀 My Open Source Projects
 
-<!--
-**aleksander-urbaniak/aleksander-urbaniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [PulZe Dashboard](https://github.com/aleksander-urbaniak/pulze-dashboard) - 🌐 Web / 🐳 Docker - Self-hosted monitoring dashboard that unifies alerts from Prometheus, Zabbix, and Uptime Kuma.
+- [Flarewatcher](https://github.com/aleksander-urbaniak/flarewatcher) - 🌐 Web / 🐳 Docker - Self-hosted Cloudflare DDNS and DNS operations dashboard.
+- [Home Lab Infra](https://github.com/aleksander-urbaniak/homelab) - 🏗️ Infrastructure / IaC - Proxmox + K3s homelab with automation, observability, and runbooks.
+- [Universal Video Downloader](https://github.com/aleksander-urbaniak/universal-video-downloader) - 🪟 Windows App / PowerShell - WPF-based media downloader with format and quality controls.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ SysOps Administrator and DevOps Engineer focused on reliability and operability.
+- 🐧 Linux-first, self-hosted infrastructure enthusiast.
+- 🤖 Build practical tools with automation-first workflows.
+- ✨ Prefer simple, maintainable systems over unnecessary complexity.
